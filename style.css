@@ -1,0 +1,50 @@
+body{
+    font-family:Ariel,Helvetica, scans-serif;
+    font-size:16px;
+    line-height: 1.5;
+    margin-left: 20px;
+    padding: 0;
+
+}
+
+h1{
+    font-size: 40px;
+    margin-top: 20px;
+    margin-bottom: 10;
+
+}
+ h2{
+    font-size: 40px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+
+ }
+
+ p{
+    margin-top: 0;
+    margin-bottom: 10px;
+
+ }
+  .loren{
+      color:blue;
+
+
+ }
+ 
+  #loren{
+     color:red;
+ }
+
+ .double.class-name{
+    color: hwb(92 0% 50%) (0,128,);
+    font-size: 18px;
+
+ }
+  a{
+    color: aqua;
+     text-decoration: none;
+  }
+  p span
+  {
+    color:blueviolet;
+  }
